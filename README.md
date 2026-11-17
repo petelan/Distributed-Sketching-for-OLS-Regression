@@ -1,3 +1,3 @@
-The code_error.py returns excess loss curves. 
+code_error.py generate the excess loss figure. 
 
-The code_time.ph returns training time curves. 
+code_time.py generates the training time figure. 
